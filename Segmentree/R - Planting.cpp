@@ -74,6 +74,7 @@ void OI() {
     cout << p;
 }
 /*
+https://codeforces.com/gym/625300/problem/R
 x[i] = 10
 [1, 4, 5, 6, x[i]] 
 + cost_left = (x[i] - 6) + (x[i] - 5) + (x[i] - 4) + (x[i] - 1)
